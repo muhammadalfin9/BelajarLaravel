@@ -10,6 +10,7 @@
 
 
 @plugin "flowbite/plugin";
+@plugin "flowbite-typography";
 
 
 @theme {
